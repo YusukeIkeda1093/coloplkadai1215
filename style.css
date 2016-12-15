@@ -1,0 +1,36 @@
+
+body{
+	background-color:#ffffff;
+	width:100%;
+	height:100%;
+}
+
+form{
+	margin-left:50px;
+}
+	
+div#header{
+	background-color:#5555ff;
+	width:100%;
+	height:50px;
+	color:#ffffff;
+	font-size:20pt;
+	margin-top:-20px;
+	margin-bottom:25px;
+}
+
+body.error{
+	color=#ff0000;
+}
+
+table.border{
+	border-collapse:collapse;
+}
+table.border td {
+	border: solid 1px;
+	padding: 0.5em;
+}
+
+input.admin_button{
+	margin-right:15px;
+}
